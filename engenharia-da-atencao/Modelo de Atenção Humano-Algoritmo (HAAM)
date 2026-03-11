@@ -1,0 +1,119 @@
+## Visão Geral
+
+O Human–Algorithm Attention Model (HAAM) descreve como conteúdos digitais de alto desempenho emergem da interação entre dois sistemas distintos, mas interdependentes:
+
+Sistema de atenção humana
+
+Sistema de recomendação algorítmico
+
+Conteúdos que alcançam grande distribuição geralmente conseguem alinhar gatilhos cognitivos humanos com sinais mensuráveis que os algoritmos utilizam para avaliar relevância e interesse.
+
+## Camada 1 — Atenção Humana
+
+O primeiro estágio do processo ocorre no nível perceptivo do usuário.
+
+Ao navegar por um feed, o cérebro humano decide em poucos milissegundos se vale a pena interromper o scroll. Essa decisão é influenciada por gatilhos visuais e emocionais.
+
+Entre os estímulos mais recorrentes estão:
+
+presença humana
+
+referência de escala
+
+contraste visual
+
+textura detalhada
+
+curiosidade implícita
+
+objetos pequenos ou incomuns
+
+sugestão de transformação ou processo
+
+Esses elementos funcionam como interruptores de atenção, aumentando a probabilidade de o usuário parar e observar o conteúdo.
+
+## Camada 2 — Sinais Algorítmicos
+
+Depois que o usuário interage com o conteúdo, entram em ação os sistemas de recomendação da plataforma.
+
+Algoritmos utilizam métricas comportamentais para avaliar a relevância de um conteúdo, como por exemplo:
+
+taxa de cliques (CTR)
+
+tempo de retenção
+
+interações (likes, comentários, salvamentos)
+
+comportamento de usuários semelhantes
+
+Esses dados são transformados em vetores numéricos que permitem aos sistemas identificar padrões de interesse entre grupos de usuários.
+
+## Clusterização e Distribuição
+
+Quando um conteúdo apresenta sinais consistentes de interesse, o algoritmo tende a associá-lo a um cluster de audiência.
+
+Clusters são grupos de usuários que demonstram comportamentos semelhantes de consumo.
+
+Uma vez identificado esse padrão, o sistema pode:
+
+ampliar a distribuição do conteúdo
+
+testar o conteúdo em novas audiências similares
+
+expandir o alcance para bolhas de interesse relacionadas
+
+Esse processo cria o efeito de escala algorítmica, onde conteúdos bem avaliados passam a alcançar audiências cada vez maiores.
+
+## Consistência Visual e Reconhecimento de Padrão
+
+A consistência visual desempenha um papel importante nesse processo.
+
+Quando um canal mantém elementos recorrentes, como:
+
+identidade visual
+
+estilo de thumbnail
+
+estrutura de conteúdo
+
+o algoritmo consegue identificar padrões com maior facilidade.
+
+Isso facilita a associação do canal a determinados clusters de interesse.
+
+Abstração de Gatilhos Virais
+
+Em vez de copiar conteúdos virais específicos, o modelo propõe identificar padrões estruturais recorrentes que aparecem em conteúdos de alto desempenho.
+
+Esses padrões podem incluir:
+
+estruturas visuais
+
+elementos emocionais
+
+símbolos culturais
+
+composição narrativa
+
+A abstração desses elementos permite construir templates criativos replicáveis, mantendo o núcleo emocional que captura atenção.
+
+Aplicação no Estudo de Caso
+
+No estudo realizado no canal de crochê, o modelo HAAM foi aplicado na construção de thumbnails com foco em capturar atenção humana e gerar sinais positivos para o algoritmo.
+
+## A thumbnail analisada utilizou:
+
+referência humana (mão segurando o objeto)
+
+objeto pequeno (gatilho de ternura)
+
+textura artesanal visível
+
+sugestão de processo de criação
+
+Esses elementos funcionaram como estímulos de atenção inicial, aumentando a probabilidade de clique e, consequentemente, gerando sinais positivos para o sistema de recomendação.
+
+## Conclusão
+
+O Human–Algorithm Attention Model propõe que o desempenho de conteúdos digitais não depende apenas de criatividade ou apenas de métricas, mas da integração entre percepção humana e interpretação algorítmica.
+
+Conteúdos que conseguem alinhar esses dois sistemas têm maior probabilidade de alcançar distribuição ampliada e crescimento orgânico.
