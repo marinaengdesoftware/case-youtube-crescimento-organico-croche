@@ -2,6 +2,8 @@
 
 Este projeto documenta um estudo de caso de crescimento orgânico em um canal do YouTube do nicho de crochê.
 
+Canal: https://www.youtube.com/@crochebelloestilo/videos
+
 O objetivo foi analisar como a engenharia visual de thumbnails pode influenciar diretamente o CTR (Click Through Rate) e o alcance orgânico de um vídeo.
 
 Utilizando princípios de análise visual e emocional, foi desenvolvida uma thumbnail baseada em gatilhos psicológicos e padrões observados em conteúdos virais.
