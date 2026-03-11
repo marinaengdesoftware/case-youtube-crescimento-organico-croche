@@ -1,4 +1,4 @@
-# Attention Engineering — Engenharia de Atenção em Conteúdo Digital
+# Engenharia de Atenção em Conteúdo Digital
 
 Este documento descreve os princípios utilizados para projetar thumbnails e conteúdos com maior probabilidade de capturar atenção e gerar distribuição algorítmica.
 
